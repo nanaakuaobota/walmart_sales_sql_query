@@ -6,8 +6,7 @@ The growth of supermarkets in most populated cities are increasing and market co
 
 ## About DataSet
 
-The dataset was obtained from the [Kaggle](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales?utm_medium=social&utm_campaign=kaggle-dataset-share&utm_source=twitter). The dataset contains sales transactions from a three different branches of Walmart over a period of three months. The data contains 17 columns and 1000 rows:
-
+The dataset contains sales transactions from a three different branches of Walmart over a period of three months,it contains 17 columns and 1000 rows. Find dataset [here](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales?utm_medium=social&utm_campaign=kaggle-dataset-share&utm_source=twitter). 
 
 
 | Column                  | Description                             
