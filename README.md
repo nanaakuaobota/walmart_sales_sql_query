@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The growth of supermarkets in most populated cities are increasing and market competitions are also high.This project seeks to delve into Walmart sales data to identify top-performing branches and products, discern sales trends, and analyze customer behavior. The objective is to investigate methods for enhancing and optimizing sales strategies.
+The growth of supermarkets in most populated cities are increasing and market competitions are also high.This project seeks to delve into Walmart sales data to identify top-performing branches and products, discern sales trends, and analyze customer behavior. The objective is to uncover insights that can inform and optimize sales strategies, enhancing the overall performance of the retail giant.
 
 ## About DataSet
 
@@ -29,3 +29,44 @@ The dataset contains sales transactions from a three different branches of Walma
 | rating                  | Rating                                  | 
 
 
+## Methodology
+
+#### Database Creation And Data Import
+- Created a database
+- Created a table to insert the data to be imported
+- Imported the data, check [here](sql-walmart-import.PNG)
+
+#### Feature Engineering 
+I created some new columns from existing ones;
+- month_name that contains the extracted months of the year which the given transaction took place (Jan, Feb, Mar). This was to determine which months contributed to sales and profit.
+- time_of_day column to give insight of sales in the Morning, Afternoon and Evening. 
+-  day_name that contains the extracted days of the week on which the given transaction took place (Mon, Tue, Wed, Thur, Fri). This will help answer the question on which week of the day each branch is busiest.
+
+#### Data Query and Exploratory Data Analysis (EDA)
+- Executed SQL queries to answer specific questions thus identifying patterns and trends.
+
+#### Data Visualization :
+- Imported the analyzed data from the database to a format suitable for visualization in Power BI, ensured that the data exported maintained it's integrity and completeness for accurate visualization.
+- Utilized Power BI to create interactive visualizations.
+
+#### Documentation and Reporting:
+- Documented the entire process, including database setup, data import, analysis steps, and visualization techniques, for future reference and reproducibility.
+
+  ### Tools Used
+  - My SQL
+  -  PowerBI
+ 
+    ### Insights
+  -
+
+### Recommendations
+
+ 
+  
+  ## Code and PowerBI Report(Dashboard)
+ - For the sql syntaxes check [here](sql_queries.sql)
+ - Interact with the PowerBI dashboard [here]()
+
+### Conclusion
+In conclusion, this project provided a hands-on opportunity to explore Walmart sales data using SQL and Power BI. Through this endeavor, I honed my skills in data querying, analysis, and visualization, gaining valuable insights into sales trends and customer behavior. It's been a rewarding experience that reaffirmed my passion for data analytics and continuous learning in the field.
+  
