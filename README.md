@@ -46,7 +46,7 @@ I created some new columns from existing ones;
 - Executed SQL queries to answer specific questions thus identifying patterns and trends.
 
 #### Data Visualization :
-- Imported the analyzed data from the database to a format suitable for visualization in Power BI, ensured that the data exported maintained it's integrity and completeness for accurate visualization.
+- Loaded the analyzed [data](powerbi-load.PNG) from the database for visualization in Power BI, ensured that the data exported maintained it's integrity and completeness for accurate visualization.
 - Utilized Power BI to create interactive visualizations.
 
 #### Documentation and Reporting:
@@ -57,9 +57,33 @@ I created some new columns from existing ones;
   -  PowerBI
  
     ### Insights
-  -
+  - Branch C in Naypyitaw recorded the highest sales, totaling $110,568.71, while branch B in Mandalay had the lowest sales, amounting to $106,197.67. It is interesting to note that the total sales figures for both branches B and A are quite close, as branch A made total sales of $106,200.37.
+    
+  - The 'Food and Beverages' product line was recorded as the most profitable, totaling $56,144.84, while the 'Health and Beauty' products were the least profitable, totaling $49,193.74.
+ 
+  - The store achieved its highest sales in January, totaling $116,291.87. Interestingly, sales peak on Saturdays and Tuesdays, indicating these days are particularly lucrative for the store.
+ 
+  - Female customers contribute predominantly to sales, with a notable preference for the 'Food and Beverages' product line.
+    Male customers on the other hand tend to favor the 'Health and Beauty' product line in their purchases.
+
+  - Customers exhibit a tendency to make the majority of their purchases during the evening hours.
+ 
+  - The 'Member' customer type significantly contributes to sales, and the preferred payment method among customers is cash
 
 ### Recommendations
+
+- Implement strategies such as feedback collection from customers to understand their preferences and pain points,strengthen the store's online presence through social media, a dedicated website, or e-commerce platforms to boost sales at Branch B in Mandalay and Branch A in Yangon.
+
+- Poorly performing product lines especifically the Health and beauty product line should be placed in strategic positions to ensure visibility to prospective customers. Also the stock of 'Food and Beverages' products should be increased to meet customer demand and ensure adequate availability and also increase revenue.
+
+- Focus on increasing staffing during peak sales days and times, particularly Saturdays,Tuesdays and evenings.Allocate resources to staff to meet increased demand and ensure a seamless shopping experience for customers.
+
+- Introduce promotional activities, targeted marketing campaigns, and community engagement initiatives to in boost the store's overall performance and foster growth.
+
+
+
+
+
 
  
   
