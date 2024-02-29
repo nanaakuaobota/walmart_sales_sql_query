@@ -32,8 +32,8 @@ The dataset contains sales transactions from a three different branches of Walma
 ## Methodology
 
 #### Database Creation And Data Import
-- Created a database
-- Created a table to insert the data to be imported
+- Created the 'walmart_sales' database
+- Created 'sales' table to insert the data to be imported
 - Imported the data, check [here](sql-walmart-import.PNG)
 
 #### Feature Engineering 
@@ -81,13 +81,7 @@ I created some new columns from existing ones;
 - Introduce promotional activities, targeted marketing campaigns, and community engagement initiatives to in boost the store's overall performance and foster growth.
 
 
-
-
-
-
- 
-  
-  ## Code and PowerBI Report(Dashboard)
+## Code and PowerBI Report(Dashboard)
  - For the sql syntaxes check [here](sql_queries.sql)
  - Interact with the PowerBI dashboard [here]()
 
