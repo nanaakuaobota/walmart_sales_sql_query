@@ -83,7 +83,7 @@ I created some new columns from existing ones;
 
 ## Code and PowerBI Report(Dashboard)
  - For the sql syntaxes check [here](sql_queries.sql)
- - Interact with the PowerBI dashboard [here](https://www.novypro.com/project/walmart-sales-report-1)
+ - Interact with the PowerBI dashboard [here](https://www.novypro.com/project/walmart-sales-)
 
 ### Conclusion
 In conclusion, this project provided a hands-on opportunity to explore Walmart sales data using SQL and Power BI. Through this endeavor, I honed my skills in data querying, analysis, and visualization, gaining valuable insights into sales trends and customer behavior. It's been a rewarding experience that reaffirmed my passion for data analytics and continuous learning in the field.
