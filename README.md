@@ -46,7 +46,7 @@ I created some new columns from existing ones;
 - Executed SQL queries to answer specific questions thus identifying patterns and trends.
 
 #### Data Visualization :
-- Loaded the analyzed [data](powerbi-load.PNG) from the database for visualization in Power BI, ensured that the data exported maintained it's integrity and completeness for accurate visualization.
+- Loaded the [data](powerbi-load.PNG) from the database for visualization in Power BI, ensured that the data exported maintained it's integrity and completeness for accurate visualization.
 - Utilized Power BI to create interactive visualizations.
 
 #### Documentation and Reporting:
