@@ -82,7 +82,7 @@ I created some new columns from existing ones;
 
 
 ## Code and PowerBI Report(Dashboard)
- - For the sql syntaxes check [here](sql_queries.sql)
+ - For the sql script check [here](sql_queries.sql)
  - Interact with the PowerBI dashboard [here](https://www.novypro.com/project/walmart-sales-)
 
 ### Conclusion
